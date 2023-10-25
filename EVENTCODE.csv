@@ -1,0 +1,21 @@
+Code,Name,Remark
+1,LIBWFX_EVENT_PAPER_DETECTED,Paper is detected.
+2,LIBWFX_EVENT_NO_PAPER,No paper is detected.
+3,LIBWFX_EVENT_PAPER_JAM,Paper jam.
+4,LIBWFX_EVENT_MULTIFEED,Multiple sheets of paper stacked together are detected at the sametime.
+5,LIBWFX_EVENT_NO_CALIBRATION_DATA,There is no calibration data.
+6,LIBWFX_EVENT_WARMUP_COUNTDOWN,The machine's standby time is up.
+7,LIBWFX_EVENT_SCAN_PROGRESS,Returns the % value of the current SCAN Progress bar
+8,LIBWFX_EVENT_BUTTON_DETECTED,"Set the scan number from themachine, andpress the button on themachine."
+9,LIBWFX_EVENT_SCANNING,Scanning is in progress.
+10,LIBWFX_EVENT_PAPER_FEEDING_ERROR,Paper feeding problem.
+11,LIBWFX_EVENT_COVER_OPEN,The machine cover is not closed properly.
+12,LIBWFX_EVENT_LEFT_SENSOR_DETECTED,The left sensor detects the paper.
+13,LIBWFX_EVENT_RIGHT_SENSOR_DETECTED,The right sensor detects the paper.
+14,LIBWFX_EVENT_ALL_SENSOR_DETECTED,All sensors detect paper.
+15,LIBWFX_EVENT_UVSECURITY_DETECTED,UV is detected.
+16,LIBWFX_EVENT_PLUG_UNPLUG,The machine lost connection.
+17,LIBWFX_EVENT_OVER_TIME_SCAN,Paper timeout scan.
+18,LIBWFX_EVENT_CANCEL_SCAN,The scanning process was interrupted abnormally.
+19,LIBWFX_EVENT_CAMERA_RGB_DISLOCATION,"The temperature is abnormal, resulting in abnormal image acquisition."
+20,LIBWFX_EVENT_CAMERA_TIMEOUT,Only available toSecureScanX-Mini and X-Cube models.
